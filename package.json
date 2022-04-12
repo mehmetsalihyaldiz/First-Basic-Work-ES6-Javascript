@@ -1,0 +1,30 @@
+{
+  "name": "first-basic-work-es6-javascript",
+  "version": "1.0.0",
+  "description": "aciklama-yok",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehmetsalihyaldiz/First-Basic-Work-ES6-Javascript.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Mehmet Salih YALDIZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehmetsalihyaldiz/First-Basic-Work-ES6-Javascript/issues"
+  },
+  "homepage": "https://github.com/mehmetsalihyaldiz/First-Basic-Work-ES6-Javascript#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
